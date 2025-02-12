@@ -4,7 +4,7 @@
 ### Currently learning about:
 - 🧠 **Machine Learning & AI.** (Neural Networks, Decision Tree, Optimization)
 - 🔍 **Metaheuristics & Advanced Computing.** (Genetic Algorithms, Simulated Annealing)
-- 🛠️ **Intelligent Systems & Knowledge Engineering.** (Expert Systems, Knowledge Representation).
+- 🛠️ **Intelligent Systems & Knowledge Engineering.** (Expert Systems, Knowledge Representation)
 - 🤖 **Advanced Computing Models.** (Parallel & Distributed Computing)
 
 ### Tech Stack:
