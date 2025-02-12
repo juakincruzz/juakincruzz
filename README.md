@@ -10,7 +10,7 @@
 ### Tech Stack:
 - 🛠️ **Programming Languages:** C++, C, Ruby, Assembly, Python, Java, Bash.
 - 💻 **Operating Systems:** Windows, Linux, MacOS.
-- 💿 **Database:** MySQL
+- 💿 **Database:** MySQL.
 
 ### About me:
 - 🎓 Currently working towards my Bachelor's degree in Computer Science.
