@@ -8,7 +8,7 @@
 - 🤖 **Advanced Computing Models.** (Parallel & Distributed Computing)
 
 ### Tech Stack:
-- 🛠️ **Programming Languages:** C++, C, Ruby, Assembly, Python, Java, Bash.
+- 🛠️ **Programming Languages:** C++, C, Ruby, Assembly, Python, Java, Swift, Bash.
 - 💻 **Operating Systems:** Windows, Linux, MacOS.
 - 💿 **Database:** MySQL.
 
