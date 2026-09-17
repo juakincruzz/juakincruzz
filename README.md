@@ -29,6 +29,9 @@ I am currently building my technical profile through academic projects, personal
 * Assembly
 * Bash
 * Swift
+* PHP
+* JavaScript
+* React
 
 ### Tools and environments
 
